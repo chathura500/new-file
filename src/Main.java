@@ -18,6 +18,6 @@ public class Main {
         }
 
         System.out.println("Goodbye!");
-        System.out.println("Goodbye");
+        System.out.println("good morning");
     }
 }
