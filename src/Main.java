@@ -17,7 +17,9 @@ public class Main {
 
         }
 
-        System.out.println("Goodbye!");
-        System.out.println("good night");
+        for (int i = 1; i <= 5; i++) {
+            System.out.println("Goodbye!");
+            System.out.println("good night!");
+        }
     }
 }
